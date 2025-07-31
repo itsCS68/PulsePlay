@@ -1,0 +1,18 @@
+
+body {
+    background-color: #0e0e0e;
+    color: #a64eff;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 30px;
+}
+#gameCanvas {
+    background-color: #1c1c1c;
+    border: 2px solid #a64eff;
+}
+#leaderboard {
+    margin-top: 20px;
+    color: #fff;
+}
